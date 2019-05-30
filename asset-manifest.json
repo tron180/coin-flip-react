@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coin-flip-react/static/css/main.83545720.chunk.css",
+    "main.js": "/coin-flip-react/static/js/main.ec1fea19.chunk.js",
+    "main.js.map": "/coin-flip-react/static/js/main.ec1fea19.chunk.js.map",
+    "runtime~main.js": "/coin-flip-react/static/js/runtime~main.3edfad78.js",
+    "runtime~main.js.map": "/coin-flip-react/static/js/runtime~main.3edfad78.js.map",
+    "static/js/2.7cddf10a.chunk.js": "/coin-flip-react/static/js/2.7cddf10a.chunk.js",
+    "static/js/2.7cddf10a.chunk.js.map": "/coin-flip-react/static/js/2.7cddf10a.chunk.js.map",
+    "index.html": "/coin-flip-react/index.html",
+    "precache-manifest.be36ebe84470c855c69ba61c34002c57.js": "/coin-flip-react/precache-manifest.be36ebe84470c855c69ba61c34002c57.js",
+    "service-worker.js": "/coin-flip-react/service-worker.js",
+    "static/css/main.83545720.chunk.css.map": "/coin-flip-react/static/css/main.83545720.chunk.css.map"
+  }
+}
